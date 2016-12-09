@@ -1,4 +1,30 @@
 {
+  "procedures": [
+    {
+      "id": 1,
+      "parent_type": "pet",
+      "parent_id": 1,
+      "type": "procedure",
+      "name": "Check Up",
+      "category": {
+        "id": 1,
+        "name": "Routine Procedure"
+      },
+      "date": "1/1/2016"
+    },
+    {
+      "id": 2,
+      "parent_type": "pet",
+      "parent_id": 2,
+      "type": "procedure",
+      "name": "Gal Bladder Removal",
+      "category": {
+        "id": 1,
+        "name": "Intense Procedure"
+      },
+      "date": "1/20/2016"
+    }
+  ],
   "colors": [
     {
       "id": 1,
@@ -17,6 +43,7 @@
     {
       "id": 1,
       "name": "Gretal3",
+      "type": "pet",
       "color": [
         {
           "id": 2,

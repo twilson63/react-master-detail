@@ -1,0 +1,28 @@
+{
+  "colors": [
+    {
+      "id": 1,
+      "name": "red"
+    },
+    {
+      "id": 2,
+      "name": "blue"
+    },
+    {
+      "id": 3,
+      "name": "white"
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "name": "Gretal3",
+      "color": [
+        {
+          "id": 2,
+          "name": "blue"
+        }
+      ]
+    }
+  ]
+}
